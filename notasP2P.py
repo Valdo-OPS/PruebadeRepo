@@ -37,4 +37,23 @@ Al "hostear" se abre la ventana de chat incluso apretando el boton de "volver"
 No deja de incrementar los puertos y no los cierra cada vez que se "Hostea"
 (SOLUCIONADO)
 
+La app se relanza constantemente incluso cerrando desde administrador
+...Al menos ya lo puedo cerrar desde el administrador
+...Mentira, no se puede cerrar ni desde ahi
+...YA CIERRA
+(SOLUCIONADO)
+
+La limpieza de puertos nos e ejecuta correctamente al cerrar el .exe
+Se llama pero no se ejecuta
+[ No solucionado ]
+
+
+[[[--------------]]]
+# ----- Notas -----
+
+Voy a arreglar la estructura de las carpetas y archivos para mejorar un poco la legibilidad
+Y asi evitarme mas problemas a futuro
+
+
+[[[--------------]]]
 """
